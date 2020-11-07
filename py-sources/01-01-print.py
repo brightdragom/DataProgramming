@@ -8,3 +8,9 @@ message = "Hi ! Have great day"
 
 line = " = " * 5
 price = 20000
+
+print("1. 문자열 연습입니다.")  #""
+print("=================")
+
+print('2. 문자열 연습입니다.')   # ''
+print("=================")
