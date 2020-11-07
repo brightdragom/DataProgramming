@@ -5,4 +5,4 @@ grade = 90
 
 if grade >= 80 :
     price = 150000
-print(price)
+    print(price)
